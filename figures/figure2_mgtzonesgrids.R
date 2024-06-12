@@ -5,7 +5,6 @@ library(ggspatial)
 library(ggmap)
 library(ggrepel)
 library(basemaps)
-setwd("C:/Users/brian/OneDrive/CrabCode")
 classic_blue <- "#0F4C81"
 sapphire <- "#255F85"
 sky_blue <- "#6596CD"
