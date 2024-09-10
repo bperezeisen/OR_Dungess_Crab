@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20230703</CreaDate>
+		<CreaTime>22424600</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<imsContentType>002</imsContentType>
+				<itemName Sync="TRUE">Oregon_State_Boundary_1</itemName><nativeExtBox><westBL Sync="TRUE">183871.742622</westBL><eastBL Sync="TRUE">2345213.242202</eastBL><southBL Sync="TRUE">88600.882978</southBL><northBL Sync="TRUE">1675042.967653</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemSize Sync="TRUE">0.000</itemSize><itemLocation><linkage Sync="TRUE">file://\\DESKTOP-TMQTBUJ\C$\Users\beise\OneDrive\CrabCode\GIS\Oregon_State_Boundary_1.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps>
+			<coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><csUnits Sync="TRUE">Linear Unit: Foot (0.304800)</csUnits><projcsn Sync="TRUE">Custom</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.2.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;Custom&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,1312335.958],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-120.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,43.0],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,45.5],PARAMETER[&amp;quot;Central_Parallel&amp;quot;,41.75],UNIT[&amp;quot;Foot&amp;quot;,0.3048]]&lt;/WKT&gt;&lt;XOrigin&gt;-118489100&lt;/XOrigin&gt;&lt;YOrigin&gt;-97381100&lt;/YOrigin&gt;&lt;XYScale&gt;37592196.316242374&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808398950131233&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef><lineage><Process ToolSource="c:\users\beise\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\ExportFeatures" Date="20240608" Time="113021">ExportFeatures "Oregon_State_Boundary selection" C:\Users\beise\OneDrive\CrabCode\GIS\Oregon_State_Boundary_1.shp # NOT_USE_ALIAS "SUBJ_STATE "SUBJ_STATE" true true false 10 Text 0 0,First,#,Oregon_State_Boundary selection,SUBJ_STATE,0,9;FEATURE "FEATURE" true true false 5 Long 0 5,First,#,Oregon_State_Boundary selection,FEATURE,-1,-1" #</Process></lineage></DataProperties>
+		<scaleRange>
+			<minScale>24000</minScale>
+			<maxScale/>
+		</scaleRange>
+		<SyncDate>20240608</SyncDate><SyncTime>11302100</SyncTime><ModDate>20240608</ModDate><ModTime>11302100</ModTime></Esri>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdContact>
+		<rpIndName>Stanley Frazier</rpIndName>
+		<rpOrgName>Bureau of Land Management, Oregon State Office</rpOrgName>
+		<rpPosName>State Data Administrator</rpPosName>
+		<rpCntInfo>
+			<cntPhone>
+				<voiceNum>(503)808-6009</voiceNum>
+				<faxNum>(503)808-6419</faxNum>
+			</cntPhone>
+			<cntAddress addressType="postal">
+				<delPoint>P.O. Box 2965</delPoint>
+				<city>Portland</city>
+				<adminArea>OR</adminArea>
+				<postCode>97208</postCode>
+				<country>US</country>
+				<eMailAdd>Stan_Frazier@or.blm.gov</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+	<mdDateSt>20030326</mdDateSt>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpIndName>Lisa Blackburn</rpIndName>
+				<rpOrgName>Bureau of Land Management, OR/WA State Office</rpOrgName>
+				<rpPosName>State Records Administrator</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(503)808-6276</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="postal">
+						<delPoint>P. O. Box 2965</delPoint>
+						<city>Portland</city>
+						<adminArea>OR</adminArea>
+						<postCode>97208</postCode>
+						<country>US</country>
+						<eMailAdd>lblackbu@or.blm.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>$8 administrative fee; $18.60 per hour research time (human time spent to locate the files and make the tape); $0.13 per page copying costs (8.5x11 up to 8.5x14); $7.50 per paper plot; $16.00 per mylar plot; cost of media (diskettes, tapes, etc); cost of postage (based on actual postage, including tubes, padded envelopes, overnight/express mail, etc).</resFees>
+				<planAvDtTm time="unknown">1996</planAvDtTm>
+				<ordInstr>Contact Distributor</ordInstr>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>ARCE</formatName>
+				<formatSpec>Arc/Info Export File</formatSpec>
+				<fileDecmTech>No compression applied</fileDecmTech>
+			</distorFormat>
+			<distorTran>
+				<transSize>4.783</transSize>
+				<offLineMed>
+					<medName>
+						<MedNameCd value="012"/>
+					</medName>
+					<medDensity>5.0</medDensity>
+					<medDenUnits>Gigabytes</medDenUnits>
+					<medFormat>
+						<MedFormCd value="002"/>
+					</medFormat>
+					<medNote>Sun UNIX</medNote>
+				</offLineMed>
+			</distorTran>
+		</distributor>
+		<distributor>
+			<distorCont>
+				<rpIndName>Lisa Blackburn</rpIndName>
+				<rpOrgName>Bureau of Land Management, OR/WA State Office</rpOrgName>
+				<rpPosName>State Records Administrator</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(503)808-6276</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="postal">
+						<delPoint>P. O. Box 2965</delPoint>
+						<city>Portland</city>
+						<adminArea>OR</adminArea>
+						<postCode>97208</postCode>
+						<country>US</country>
+						<eMailAdd>lblackbu@or.blm.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<planAvDtTm time="unknown">1996</planAvDtTm>
+				<ordInstr>Contact Distributor</ordInstr>
+			</distorOrdPrc>
+		</distributor>
+		<distTranOps>
+			<onLineSrc>
+				<linkage>withheld</linkage>
+			</onLineSrc>
+			<transSize Sync="TRUE">0.000</transSize></distTranOps>
+		<distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat></distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>orbndy24</resTitle>
+			<date>
+				<pubDate time="unknown">2001</pubDate>
+			</date>
+			<citRespParty>
+				<rpOrgName>OR/WA BLM</rpOrgName>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+		</idCitation>
+		<idAbs>This theme shows the jurisdictional and cartographic state perimeters for Oregon in the Oregon Lambert Projection.</idAbs>
+		<idPurp>Resource management planning and mapping.</idPurp>
+		<idStatus>
+			<ProgCd value="001"/>
+		</idStatus>
+		<idPoC>
+			<rpIndName>Marc Thomas</rpIndName>
+			<rpOrgName>Bureau of Land Management, OR/WA State Office</rpOrgName>
+			<rpPosName>Chief, 957.3 GCDB Section</rpPosName>
+			<rpCntInfo>
+				<cntPhone>
+					<voiceNum>(503)808-6151</voiceNum>
+				</cntPhone>
+				<cntAddress addressType="postal">
+					<delPoint>P. O. Box 2965</delPoint>
+					<city>Portland</city>
+					<adminArea>OR</adminArea>
+					<postCode>97208-2965</postCode>
+					<country>US</country>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="011"/>
+			</maintFreq>
+		</resMaint>
+		<placeKeys>
+			<keyword>Oregon</keyword>
+		</placeKeys>
+		<themeKeys>
+			<keyword>Lands</keyword>
+			<keyword>Base Data</keyword>
+			<keyword>Boundaries</keyword>
+			<keyword>Cartographic</keyword>
+			<keyword>Jurisdiction</keyword>
+			<keyword>Perimeter</keyword>
+			<keyword>State</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>Lands</keyword>
+			<keyword>Base Data</keyword>
+			<keyword>Boundaries</keyword>
+			<keyword>Cartographic</keyword>
+			<keyword>Jurisdiction</keyword>
+			<keyword>Perimeter</keyword>
+			<keyword>State</keyword>
+			<keyword>Oregon</keyword>
+		</searchKeys>
+		<resConst>
+			<LegConsts>
+				<useLimit>No warranty is made by the Bureau of Land Management or the Oregon Geospatial Data Clearinghouse as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data.</useLimit>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Discretionary, contains no sensitive information - generally considered releasable.</othConsts>
+			</LegConsts>
+		</resConst>
+		<aggrInfo>
+			<aggrDSName>
+				<resTitle>DNR Data Dictionary:: Cadastre subject area</resTitle>
+				<citRespParty>
+					<rpOrgName>Washington State Department of NaturalResources</rpOrgName>
+					<role>
+						<RoleCd value="006"/>
+					</role>
+				</citRespParty>
+				<citOnlineRes>
+					<linkage>withheld</linkage>
+				</citOnlineRes>
+			</aggrDSName>
+			<assocType>
+				<AscTypeCd value="001"/>
+			</assocType>
+		</aggrInfo>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<tpCat>
+			<TopicCatCd value="003"/>
+		</tpCat>
+		<envirDesc>ESRI ArcCatalog 8.2.0.700</envirDesc>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>
+-124.961735</westBL>
+					<eastBL>
+-116.415546</eastBL>
+					<northBL>
+46.344721</northBL>
+					<southBL>
+41.914842</southBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<dataExt>
+			<exDesc>ground condition</exDesc>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Period>
+							<tmBegin time="unknown">1999</tmBegin>
+							<tmEnd time="unknown">2001</tmEnd>
+						</TM_Period>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+			<geoEle/></dataExt>
+		<suppInfo>BLM (Bureau of Land Management), CFF (Cartographic Feature File), DLG (Digital Line Graph), DRG (Digital Raster Graphic), FIPS (Federal Information Processing Standard), GCD (Geographic Coordinate Database layer), GCDB (Geographic Coordinate Data Base), HYD (WODDB Hydrologic Features layer), LLI (Landlines layer), USFS (U.S. Forest Service), USGS (U.S. Geological Survey), WODDB (Western Oregon Digital Data Base).  USGS 7.5' quadrangles.
+
+This dataset is held in Librarian and can be exported in various extents, including individual states.</suppInfo>
+		<dataLang><languageCode value="eng" Sync="TRUE"/><countryCode value="USA" Sync="TRUE"/></dataLang><dataExt><geoEle><GeoBndBox esriExtentType="search"><exTypeCode Sync="TRUE">1</exTypeCode><westBL Sync="TRUE">-124.961735</westBL><eastBL Sync="TRUE">-116.415546</eastBL><northBL Sync="TRUE">46.344729</northBL><southBL Sync="TRUE">41.914842</southBL></GeoBndBox></geoEle></dataExt></dataIdInfo>
+	<mdMaint>
+		<maintFreq>
+			<MaintFreqCd value="012"/>
+		</maintFreq>
+		<maintNote>Last metadata review date: 2002-09-16</maintNote>
+	</mdMaint>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005"/>
+			</scpLvl>
+		</dqScope>
+		<report type="DQConcConsis">
+			<measDesc>This theme was built for polygon topology.</measDesc>
+		</report>
+		<report type="DQCompOm">
+			<measDesc>This theme covers all public and private lands in Oregon and Washington.</measDesc>
+		</report>
+		<report type="DQAbsExtPosAcc" dimension="horizontal">
+			<measDesc>Line accuracy is stored in the line attribute RELIABILITY, where codes are assigned based on the line source.  See Entity and Attribute Information section for the breakdown used.</measDesc>
+		</report>
+		<dataLineage>
+			<prcStep>
+				<stepDesc>BLM contractor used the cited sources (see source information) to extract the desired line work and create the new coverage. This was accomplished in ARCEDIT using the SELECT &amp; PUT commands. The coverage was then cleaned, built for topology and projected to Lambert Conformal Conic.  All line work was ultimately snapped to GCDB points where available.  The Oregon Geospatial Data Clearinghouse projected the BLM data into the Oregon Lambert Projection.  In ArcPlot the Oregon Data was reselected and put into a new coverage.</stepDesc>
+				<stepDateTm>2001-08-01</stepDateTm>
+				<stepProc>
+					<rpIndName>Don Hsiao</rpIndName>
+					<rpOrgName>ORSO BLM/Titan Systems</rpOrgName>
+					<rpCntInfo>
+						<cntPhone>
+							<voiceNum>503-808-6534</voiceNum>
+						</cntPhone>
+						<cntAddress>
+							<eMailAdd>dhsiao@or.blm.gov</eMailAdd>
+						</cntAddress>
+					</rpCntInfo>
+					<role>
+						<RoleCd value="009"/>
+					</role>
+				</stepProc>
+			</prcStep>
+			<prcStep>
+				<stepDesc>Metadata imported.</stepDesc>
+			</prcStep>
+			<prcStep>
+				<stepDesc>Metadata imported.</stepDesc>
+				<stepSrc type="used">
+					<srcCitatn>
+						<resAltTitle>withheld</resAltTitle>
+					</srcCitatn>
+				</stepSrc>
+			</prcStep>
+			<dataSource>
+				<srcDesc>Lines</srcDesc>
+				<srcCitatn>
+					<resTitle>Geographic Coordinate Database Oregon (Point and Line)</resTitle>
+					<resAltTitle>BLM GCD</resAltTitle>
+					<date>
+						<pubDate>1989</pubDate>
+					</date>
+					<citRespParty>
+						<rpOrgName>OR/WA BLM</rpOrgName>
+						<role>
+							<RoleCd value="006"/>
+						</role>
+					</citRespParty>
+				</srcCitatn>
+				<srcExt>
+					<exDesc>publication date</exDesc>
+					<tempEle>
+						<TempExtent>
+							<exTemp>
+								<TM_Instant>
+									<tmPosition time="unknown">1991</tmPosition>
+								</TM_Instant>
+							</exTemp>
+						</TempExtent>
+					</tempEle>
+				</srcExt>
+			</dataSource>
+			<dataSource>
+				<srcDesc>Lines and attributes</srcDesc>
+				<srcMedName>
+					<MedNameCd value="digital tape media"/>
+				</srcMedName>
+				<srcScale>
+					<rfDenom>24000</rfDenom>
+				</srcScale>
+				<srcCitatn>
+					<resTitle>Landlines (Polygon, Node, Line)</resTitle>
+					<resAltTitle>BLM LLI</resAltTitle>
+					<date>
+						<pubDate time="unknown">1996-09</pubDate>
+					</date>
+					<citRespParty>
+						<rpOrgName>OR/WA BLM</rpOrgName>
+						<role>
+							<RoleCd value="006"/>
+						</role>
+					</citRespParty>
+				</srcCitatn>
+				<srcExt>
+					<exDesc>publication date</exDesc>
+					<tempEle>
+						<TempExtent>
+							<exTemp>
+								<TM_Period>
+									<tmBegin time="unknown">1996-08-01</tmBegin>
+									<tmEnd date="now" time="unknown"/>
+								</TM_Period>
+							</exTemp>
+						</TempExtent>
+					</tempEle>
+				</srcExt>
+			</dataSource>
+			<dataSource>
+				<srcDesc>Lines</srcDesc>
+				<srcScale>
+					<rfDenom>4800</rfDenom>
+				</srcScale>
+				<srcCitatn>
+					<resTitle>Hydrologic Features (Lines)</resTitle>
+					<resAltTitle>BLM HYD</resAltTitle>
+					<date>
+						<pubDate>1987</pubDate>
+					</date>
+					<citRespParty>
+						<rpOrgName>BLM OR/WA</rpOrgName>
+						<role>
+							<RoleCd value="006"/>
+						</role>
+					</citRespParty>
+				</srcCitatn>
+				<srcExt>
+					<tempEle>
+						<TempExtent>
+							<exTemp>
+								<TM_Period>
+									<tmBegin time="unknown">1985</tmBegin>
+									<tmEnd time="unknown">1986</tmEnd>
+								</TM_Period>
+							</exTemp>
+						</TempExtent>
+					</tempEle>
+				</srcExt>
+			</dataSource>
+			<dataSource>
+				<srcDesc>Lines</srcDesc>
+				<srcCitatn>
+					<resTitle>Boundaries, DLG Oregon (Polygon, Line, Node)</resTitle>
+					<resAltTitle>USGS BD</resAltTitle>
+					<date>
+						<pubDate>1998-12-21</pubDate>
+					</date>
+					<citRespParty>
+						<rpOrgName>USGS</rpOrgName>
+						<role>
+							<RoleCd value="006"/>
+						</role>
+					</citRespParty>
+				</srcCitatn>
+				<srcExt>
+					<tempEle>
+						<TempExtent>
+							<exTemp>
+								<TM_Instant>
+									<tmPosition>
+									</tmPosition>
+								</TM_Instant>
+							</exTemp>
+						</TempExtent>
+					</tempEle>
+				</srcExt>
+			</dataSource>
+			<dataSource>
+				<srcDesc>Lines</srcDesc>
+				<srcCitatn>
+					<resTitle>Boundaries, CFF (Polygon, Line, Node)</resTitle>
+					<resAltTitle>USFS BD_CFF</resAltTitle>
+					<citRespParty>
+						<rpOrgName>USFS</rpOrgName>
+						<role>
+							<RoleCd value="006"/>
+						</role>
+					</citRespParty>
+				</srcCitatn>
+				<srcExt>
+					<tempEle>
+						<TempExtent>
+							<exTemp>
+								<TM_Instant>
+									<tmPosition>
+									</tmPosition>
+								</TM_Instant>
+							</exTemp>
+						</TempExtent>
+					</tempEle>
+				</srcExt>
+			</dataSource>
+			<dataSource>
+				<srcDesc>Lines</srcDesc>
+				<srcCitatn>
+					<resTitle>Mineral Management Service Maps</resTitle>
+					<date>
+						<pubDate date="unknown" time="unknown"/>
+					</date>
+					<citRespParty>
+						<rpOrgName>DOI Mineral Management Service MMS</rpOrgName>
+						<role>
+							<RoleCd value="006"/>
+						</role>
+					</citRespParty>
+					<citRespParty>
+						<rpOrgName>MMS</rpOrgName>
+						<rpCntInfo>
+							<cntAddress>
+								<delPoint>Reston, VA</delPoint>
+							</cntAddress>
+						</rpCntInfo>
+						<role>
+							<RoleCd value="010"/>
+						</role>
+					</citRespParty>
+					<presForm>
+						<PresFormCd value="006"/>
+					</presForm>
+					<presForm>
+						<fgdcGeoform>map</fgdcGeoform>
+					</presForm>
+					<citOnlineRes>
+						<linkage>http://nationalatlas.gov/opdlmm.html</linkage>
+					</citOnlineRes>
+				</srcCitatn>
+				<srcExt>
+					<exDesc>publication date</exDesc>
+					<tempEle>
+						<TempExtent>
+							<exTemp>
+								<TM_Instant>
+									<tmPosition time="unknown">2001-05</tmPosition>
+								</TM_Instant>
+							</exTemp>
+						</TempExtent>
+					</tempEle>
+				</srcExt>
+			</dataSource>
+		</dataLineage>
+	</dqInfo>
+	<spatRepInfo>
+		<VectSpatRep><geometObjs Name="Oregon_State_Boundary_1"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<spatRepInfo>
+		<Indref>Oregon</Indref>
+		<VectSpatRep><geometObjs Name="Oregon_State_Boundary_1"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<eainfo>
+		<detailed Name="Oregon_State_Boundary_1">
+			<enttyp>
+				<enttypl>
+orbndy24.aat</enttypl>
+				<enttypd>Outlines the states of Oregon and Washington.</enttypd>
+				<enttypds>OR/WA BLM</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">SUBJ_STATE</attrlabl><attalias Sync="TRUE">SUBJ_STATE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>FEATURE</attrlabl>
+				<attalias Sync="TRUE">FEATURE</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">5</atprecis><attscale Sync="TRUE">0</attscale></attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+orbndy24.pat</enttypl>
+				<enttypd>Attributes relating to the lines for the State boundaries.</enttypd>
+				<enttypds>OR/WA BLM</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Jurisdiction.  OR:: The County jurisdictional boundary where it is coincidental with a State or hydrologic boundary is defined as a combination of the surveyed boundaries between Oregon, California, Nevada, and Idaho; the State Seaward Boundary; the line in the Columbia River determined by the Oregon-Washington Columbia River Boundary Compact; and the middle of the main channel of the Snake River.  WA:: The County jurisdictional boundary where it is coincidental with a State or hydrologic boundary is defined as a combination of the surveyed boundaries of Washington, Oregon, and Idaho; the surveyed International Boundary between the United States and Canada; the middle of the main channel of the Snake River to the mouth of the Clearwater River; the agreed-upon boundary between the United States and Canada in the waters between Vancouver Island and the mainland of Washington; and the State Seaward Boundary.</edomvd>
+						<edomvds>OR/WA BLM</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Cartographic:: western boundary will cut across bays and estuaries, etc., from bank to bank.  OR:: The County cartographic boundary where it is coincidental with a State or hydrologic boundary is defined as a combination of the surveyed boundaries between Oregon, California, Nevada, and Idaho; and the shoreline of the Pacific Ocean, Columbia and Snake Rivers, including the surveyed islands within the State jurisdictional boundary.  WA:: The County cartographic boundary where it is coincidental with a State or hydrologic boundary is defined as a combination of the surveyed boundaries between Washington, Oregon, and Idaho; the surveyed International Boundary between the United States and Canada; and the shorelines of the Pacific Ocean, Puget Sound, Straits of Juan de Fuca, and of those islands in the waters between Vancouver Island and the mainland of Washington south of the International Boundary between the U.S. And Canada.</edomvd>
+						<edomvds>OR/WA BLM</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Line segment is both jurisdictional and cartographic.</edomvd>
+						<edomvds>OR/WA BLM</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>1 foot or less</edomvd>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>3 feet or less</edomvd>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>10 feet or less</edomvd>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>4 - 40 feet or less (supports USGS and USFS data with a cutoff at the National Map Accuracy Standard for 7.5 minute maps)</edomvd>
+					</edom>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>100 feet or less</edomvd>
+					</edom>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>200 feet or less (supports USGS data when PLSS lines are depicted by dashed lines)</edomvd>
+					</edom>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>over 200 feet (supports USGS data when PLSS lines are not depicted)</edomvd>
+					</edom>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>over 300 feet</edomvd>
+					</edom>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ORBNDY24#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BLM</edomv>
+						<edomvd>BLM-generated lines</edomvd>
+					</edom>
+					<edom>
+						<edomv>CFF</edomv>
+						<edomvd>USFS Cartographic Feature File</edomvd>
+					</edom>
+					<edom>
+						<edomv>DLG</edomv>
+						<edomvd>USGS Digital Line Graph</edomvd>
+					</edom>
+					<edom>
+						<edomv>DNR</edomv>
+						<edomvd>WA Department of Natural Resources</edomvd>
+					</edom>
+					<edom>
+						<edomv>GCDB</edomv>
+						<edomvd>BLM Geographic Coordinate Data Base</edomvd>
+					</edom>
+					<edom>
+						<edomv>LLI</edomv>
+						<edomvd>BLM Landline layer</edomvd>
+					</edom>
+					<edom>
+						<edomv>OTH</edomv>
+						<edomvd>Other; in the case of an OR county, the FIPS code was used to identify which county was the source (e.g. OR067, which is Washington County)</edomvd>
+					</edom>
+					<edom>
+						<edomv>WODDB</edomv>
+						<edomvd>BLM's Western Oregon Digital Data Base</edomvd>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ORBNDY24-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SUBJ_STATE</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FEATURE</attrlabl>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>
+orbndy24.nat</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ARC#</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ORBNDY24#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ORBNDY24-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+	<mdLang><languageCode value="eng" Sync="TRUE"/><countryCode value="USA" Sync="TRUE"/></mdLang><mdHrLvName Sync="TRUE">dataset</mdHrLvName><refSysInfo><RefSystem><refSysID><identCode code="0" Sync="TRUE"/><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">6.18.3(9.3.1.2)</idVersion></refSysID></RefSystem></refSysInfo><spdoinfo><ptvctinf><esriterm Name="Oregon_State_Boundary_1"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo></metadata>
