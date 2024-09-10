@@ -1,6 +1,5 @@
 library(tidyverse)
 library(sf)
-setwd("C:/Users/brian/OneDrive/CrabCode")
 #R script to switch GIS processing into R from ARCGIS
 #oregon shapefile layer downloaded from https://geohub.oregon.gov/datasets/oregon-geo::oregon-state-boundary/explore?location=43.524638%2C-123.512203%2C8.93
 #with additional processing in ARCGIS to remove objects not part of mainland mass
